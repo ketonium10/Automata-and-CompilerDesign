@@ -103,7 +103,4 @@ while(c==0 || c==1){
   printf("Final state %c",ptr->name);
 
 
-
-
-
 }
