@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<malloc.h>
+
 struct node {
 char name;
 struct node* ptr_0;
